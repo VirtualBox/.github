@@ -1,7 +1,7 @@
 <!--- using a banner is optional, but recommended. Reach out to the OGHO team for banner templates.--->
 <!--- put the banner with description here --->
 
-# [VirtualBox]
+# VirtualBox
 
 The VirtualBox organization is the home of Oracle's popular virtualization software running on many operating systems
 using AMD/Intel/ARM processors. It allows running a broad range of operating systems in a virtual machine (VM) with
