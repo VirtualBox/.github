@@ -30,10 +30,10 @@ provided as part of the Oracle VirtualBox Extension Pack which is closed source.
 * [LiveLabs](https://github.com/oracle-livelabs) – workshops for building and deploying applications using Oracle's technologies
 * [MySQL](https://github.com/mysql) –  the world's most popular open source database
 * [OCI Landing Zones](https://github.com/oci-landing-zones) – landing zones for automated deployment of OCI services
+* [Oracle Cloud Native Environment](https://github.com/oracle-cne) - fully integrated suite for the development and management of cloud-native applications
 * [OpenJDK](https://github.com/openjdk/) – OpenJDK development and related repositories
 * [Oracle DevRel](https://github.com/oracle-devrel) – developer code samples, tutorials, and more
 * [Oracle GitHub Actions](https://github.com/oracle-actions) – GitHub Actions from Oracle
 * [Oracle Sample Projects](https://github.com/oracle-samples) – new projects and sample applications 
 * [Oracle Terraform Modules](https://github.com/oracle-terraform-modules) – Terraform modules for provisioning Oracle Cloud Infrastructure resources
 * [Quick Start](https://github.com/oracle-quickstart) – automated deployments of enterprise software on Oracle Cloud Infrastructure
-* [Verrazzano](https://github.com/verrazzano) – an open source enterprise container platform curated by Oracle
