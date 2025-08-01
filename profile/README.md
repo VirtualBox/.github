@@ -10,7 +10,9 @@ excluding the possibility to run VMs in the background), flexible networking fea
 interactive workloads.
 
 It is largely open-source code, inviting community contributions in all areas. A limited amount of functionality is
-provided as part of the Oracle VirtualBox Extension Pack which is closed source.
+provided as part of the Oracle VirtualBox Extension Pack which is closed source. If you have questions about the
+licensing details or evaluating the Extension Pack in a commercial context, see the
+[Licensing FAQ](https://www.virtualbox.org/wiki/Licensing_FAQ).
 
 ## Get Started
 
